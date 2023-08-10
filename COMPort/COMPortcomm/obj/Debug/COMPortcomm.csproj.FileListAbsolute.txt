@@ -1,0 +1,11 @@
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\bin\Debug\COMPortcomm.exe.config
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\bin\Debug\COMPortcomm.exe
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\bin\Debug\COMPortcomm.pdb
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\obj\Debug\COMPortcomm.csproj.AssemblyReference.cache
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\obj\Debug\COMPortcomm.csproj.SuggestedBindingRedirects.cache
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\obj\Debug\COMPortcomm.Form1.resources
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\obj\Debug\COMPortcomm.Properties.Resources.resources
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\obj\Debug\COMPortcomm.csproj.GenerateResource.cache
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\obj\Debug\COMPortcomm.csproj.CoreCompileInputs.cache
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\obj\Debug\COMPortcomm.exe
+C:\Users\stimexpabs\source\repos\COMPortcomm\COMPortcomm\obj\Debug\COMPortcomm.pdb
